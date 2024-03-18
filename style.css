@@ -1,0 +1,14 @@
+table, th, td {
+    border: 100px solid rgb(54, 131, 110);
+    border-collapse: collapse;
+    align-items: center;
+}
+body {
+    font-family: 'Helvetica';
+    font-size: 2em;
+}
+input {
+    height: 100px;
+    width: 300px;
+    font-size: 12em;
+}
